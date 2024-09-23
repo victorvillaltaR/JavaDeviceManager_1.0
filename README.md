@@ -1,6 +1,6 @@
 JavaDeviceManager is a Java-based desktop application that allows users to manage different types of computer equipment (Desktop, Laptop, Tablet) in a simple and interactive way. The program provides options to register new equipment and view the registered equipment by category.
 
-Features:
+#Features:
 
 -Register Equipment: Users can register various types of equipment by entering details such as manufacturer, model, processor, memory, and other specifications depending on the type of equipment (Desktop, Laptop, or Tablet).
 
@@ -11,7 +11,7 @@ Features:
 -User-Friendly Interface: The program utilizes JOptionPane dialogs to provide an intuitive and user-friendly interface for data entry and equipment display.
 
 
-Equipment Types: 
+#Equipment Types: 
 
 -Desktop: Includes fields for graphics card, hard drive capacity, tower size, and RAM.
 
@@ -20,7 +20,7 @@ Equipment Types:
 -Tablet: Includes fields for screen size, type of screen (capacitive or resistive), NAND memory capacity, and operating system.
 
 
-How to Use:
+#How to Use:
 
 -Run the program and select an option from the main menu.
 -Choose to register new equipment or view the existing ones.
