@@ -23,6 +23,9 @@ JavaDeviceManager is a Java-based desktop application that allows users to manag
 #How to Use:
 
 -Run the program and select an option from the main menu.
+
 -Choose to register new equipment or view the existing ones.
+
 -Follow the prompts to enter the required information for each piece of equipment.
+
 -If necessary, cancel the process to return to the main menu.
