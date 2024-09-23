@@ -1,0 +1,1 @@
+# JavaDeviceManager_1.0
